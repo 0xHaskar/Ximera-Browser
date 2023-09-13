@@ -7,10 +7,10 @@
 
 ### О проекте
 Данный проект (Ximera-Browser) это аддон для Venator OSINT Browser - многофункциональный OSINT браузер на основе Librewolf.
-У разработчика Venator есть свой telegram канал - https://t.me/s/venatorbrowser
+<br /> У разработчика Venator есть свой telegram канал - https://t.me/s/venatorbrowser
 <br /> А также boosty - https://boosty.to/venator
 <br /> Через данные источники вы можете следить за разработкий Venator OSINT Browse и поблагодарить разработчика за его работу!
-
-Теперь про аддон - 
+<br />
+<br /> Теперь про аддон - это всего лишь моя любическая разработка и я буду обновлять проект по возможности.
 
 ### Screenshot:
