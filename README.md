@@ -15,3 +15,4 @@
 <br /> Данный проект основан на Venator OSINT Browser и работает на нем.
 
 ### Screenshot:
+![Header](https://github.com/0xHaskar/Ximera-Browser/blob/main/screenshot/menu.png)
