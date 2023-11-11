@@ -14,5 +14,8 @@
 <br /> Теперь про аддон - это всего лишь моя любическая разработка и буду обновлять проект по возможности.
 <br /> Данный проект основан на Venator OSINT Browser и работает на нем.
 
+### Расширения:
+https://github.com/LasCC/HackTools
+
 ### Screenshot:
 ![Header](https://github.com/0xHaskar/Ximera-Browser/blob/main/screenshot/menu1.png)
