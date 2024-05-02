@@ -18,4 +18,4 @@
 https://github.com/LasCC/HackTools
 
 ### Screenshot:
-![Header](https://github.com/0xHaskar/Ximera-Browser/blob/main/screenshot/menu1.png)
+![Header](https://github.com/0xHaskar/Ximera-Browser/blob/main/screenshot/menu2.png)
