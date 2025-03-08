@@ -6,16 +6,14 @@
 Вы согласны со всем, что написано на этой странице!
 
 ### О проекте
-Данный проект (Ximera-Browser) это аддон для Venator OSINT Browser - многофункциональный OSINT браузер на основе Librewolf.
-<br /> У разработчика Venator есть свой telegram канал - https://t.me/s/venatorbrowser
-<br /> А также boosty - https://boosty.to/venator
-<br /> Через данные источники вы можете следить за разработкий Venator OSINT Browse и поблагодарить разработчика за его работу!
-<br />
-<br /> Теперь про аддон - это всего лишь моя любическая разработка и буду обновлять проект по возможности.
-<br /> Данный проект основан на Venator OSINT Browser и работает на нем.
+Пусто
 
 ### Расширения:
-https://github.com/LasCC/HackTools
+https://addons.mozilla.org/ru/firefox/addon/ublock-origin/
+https://addons.mozilla.org/ru/firefox/addon/privacy-badger17/
+https://addons.mozilla.org/ru/firefox/addon/decentraleyes/
+https://addons.mozilla.org/ru/firefox/addon/user-agent-string-switcher/
+https://addons.mozilla.org/ru/firefox/addon/noscript/
 
 ### Screenshot:
 ![Header](https://github.com/0xHaskar/Ximera-Browser/blob/main/screenshot/menu2.png)
