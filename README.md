@@ -9,11 +9,11 @@
 Пусто
 
 ### Расширения:
-https://addons.mozilla.org/ru/firefox/addon/ublock-origin/
-https://addons.mozilla.org/ru/firefox/addon/privacy-badger17/
-https://addons.mozilla.org/ru/firefox/addon/decentraleyes/
-https://addons.mozilla.org/ru/firefox/addon/user-agent-string-switcher/
-https://addons.mozilla.org/ru/firefox/addon/noscript/
+https://addons.mozilla.org/ru/firefox/addon/ublock-origin/<br>
+https://addons.mozilla.org/ru/firefox/addon/privacy-badger17/<br>
+https://addons.mozilla.org/ru/firefox/addon/decentraleyes/<br>
+https://addons.mozilla.org/ru/firefox/addon/user-agent-string-switcher/<br>
+https://addons.mozilla.org/ru/firefox/addon/noscript/<br>
 
 ### Screenshot:
 ![Header](https://github.com/0xHaskar/Ximera-Browser/blob/main/screenshot/menu2.png)
