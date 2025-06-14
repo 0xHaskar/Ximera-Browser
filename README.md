@@ -9,11 +9,16 @@
 Пусто
 
 ### Расширения:
-https://addons.mozilla.org/ru/firefox/addon/ublock-origin/<br>
-https://addons.mozilla.org/ru/firefox/addon/privacy-badger17/<br>
-https://addons.mozilla.org/ru/firefox/addon/decentraleyes/<br>
-https://addons.mozilla.org/ru/firefox/addon/user-agent-string-switcher/<br>
-https://addons.mozilla.org/ru/firefox/addon/noscript/<br>
+1. https://addons.mozilla.org/ru/firefox/addon/ublock-origin/<br>
+2. https://addons.mozilla.org/ru/firefox/addon/privacy-badger17/<br>
+3. https://addons.mozilla.org/ru/firefox/addon/decentraleyes/<br>
+4. https://addons.mozilla.org/ru/firefox/addon/user-agent-string-switcher/<br>
+5. https://addons.mozilla.org/ru/firefox/addon/noscript/<br>
+6. https://addons.mozilla.org/ru/firefox/addon/ublock-origin/<br>
+7. https://addons.mozilla.org/ru/firefox/addon/foxyproxy-standard/<br>
+8. https://addons.mozilla.org/ru/firefox/addon/wappalyzer/<br>
+9. https://addons.mozilla.org/ru/firefox/addon/bitwarden-password-manager/<br>
+
 
 ### Screenshot:
 ![Header](https://github.com/0xHaskar/Ximera-Browser/blob/main/screenshot/menu2.png)
