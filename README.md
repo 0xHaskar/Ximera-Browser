@@ -14,10 +14,9 @@
 3. https://addons.mozilla.org/ru/firefox/addon/decentraleyes/<br>
 4. https://addons.mozilla.org/ru/firefox/addon/user-agent-string-switcher/<br>
 5. https://addons.mozilla.org/ru/firefox/addon/noscript/<br>
-6. https://addons.mozilla.org/ru/firefox/addon/ublock-origin/<br>
-7. https://addons.mozilla.org/ru/firefox/addon/foxyproxy-standard/<br>
-8. https://addons.mozilla.org/ru/firefox/addon/wappalyzer/<br>
-9. https://addons.mozilla.org/ru/firefox/addon/bitwarden-password-manager/<br>
+6. https://addons.mozilla.org/ru/firefox/addon/foxyproxy-standard/<br>
+7. https://addons.mozilla.org/ru/firefox/addon/wappalyzer/<br>
+8. https://addons.mozilla.org/ru/firefox/addon/bitwarden-password-manager/<br>
 
 
 ### Screenshot:
