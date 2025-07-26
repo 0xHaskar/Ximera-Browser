@@ -17,6 +17,7 @@
 6. https://addons.mozilla.org/ru/firefox/addon/foxyproxy-standard/<br>
 7. https://addons.mozilla.org/ru/firefox/addon/wappalyzer/<br>
 8. https://addons.mozilla.org/ru/firefox/addon/bitwarden-password-manager/<br>
+9. https://addons.mozilla.org/ru/firefox/addon/single-file/<br>
 
 
 ### Screenshot:
