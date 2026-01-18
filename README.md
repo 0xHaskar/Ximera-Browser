@@ -18,6 +18,7 @@
 7. https://addons.mozilla.org/ru/firefox/addon/wappalyzer/<br>
 8. https://addons.mozilla.org/ru/firefox/addon/bitwarden-password-manager/<br>
 9. https://addons.mozilla.org/ru/firefox/addon/single-file/<br>
+10. https://github.com/LasCC/HackTools/<br>
 
 
 ### Screenshot:
