@@ -19,6 +19,8 @@
 8. https://addons.mozilla.org/ru/firefox/addon/bitwarden-password-manager/<br>
 9. https://addons.mozilla.org/ru/firefox/addon/single-file/<br>
 10. https://github.com/LasCC/HackTools/<br>
+11. https://cookie-editor.com/<br>
+    https://addons.mozilla.org/ru/firefox/addon/cookie-editor/<br>
 
 
 ### Screenshot:
